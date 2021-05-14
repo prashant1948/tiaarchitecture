@@ -1,0 +1,36 @@
+.elementor-508 .elementor-element.elementor-element-285bf25 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+.elementor-508
+    .elementor-element.elementor-element-084547c
+    > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.elementor-508 .elementor-element.elementor-element-6cbb1e9 .ce-hudson-slider {
+    background-color: #ffffff;
+    color: #000000;
+}
+.elementor-508
+    .elementor-element.elementor-element-6cbb1e9
+    .ce-hudson-slider
+    .slide-img:after {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.elementor-508
+    .elementor-element.elementor-element-6cbb1e9
+    .ce-hudson-slider
+    .slide-title.active
+    a {
+    color: #694a2e;
+}
+.elementor-508
+    .elementor-element.elementor-element-6cbb1e9
+    .ce-hudson-slider
+    .slide-title.active
+    a:before {
+    /* background: #21fef1; */
+    background: #694a2e;
+}
